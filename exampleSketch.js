@@ -267,7 +267,7 @@ function preload(){
   batterMouseOut = loadImage('Assets/mouse1.png');
   batterMouseClick = loadImage('Assets/clickHere.png');
 
-  spaceUp = loadImage('Assets/spaceUP.png');
+  spaceUp = loadImage('Assets/spaceUp.png');
   spaceDown = loadImage('Assets/spaceDown.png');
 
   chiliSauce = loadImage('Assets/Sauce Chilli.png');
