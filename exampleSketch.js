@@ -317,12 +317,12 @@ function preload(){
 
   halfCustomer = loadImage('Assets/halfCustomer.png');
   bubble = loadImage('Assets/speechBubble.png');
-  // song0 = loadSound('bgm/Good Mood.mp3');
-  song1 = loadSound('bgm/Online Shopping.mp3');
-  song2 = loadSound('bgm/Action In The City_bgm.mp3');
+  // song0 = loadSound('bgm/Good_Mood.mp3');
+  song1 = loadSound('bgm/Online_Shopping.mp3');
+  song2 = loadSound('bgm/Action_In_The_City_bgm.mp3');
   cashSound = loadSound('bgm/Cash_Register.mp3');
-  song3 = loadSound('bgm/Baby Swing.mp3');
-  song4 = loadSound('bgm/Black Comedy.mp3');
+  song3 = loadSound('bgm/Baby_Swing.mp3');
+  song4 = loadSound('bgm/Black_Comedy.mp3');
   arrowBackground = loadImage('Assets/arrowBackground.png');
 
 }
